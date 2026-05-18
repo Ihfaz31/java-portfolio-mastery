@@ -1,0 +1,3 @@
+Linux ,SRV-01,false
+LAP-01,HP Victus,true
+LAP-03,hp spectre,true
